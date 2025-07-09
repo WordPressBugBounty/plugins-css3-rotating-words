@@ -14,7 +14,7 @@ class LA_Words_Rotator
 
     public function rotating_words_admin_options()
     {
-        add_menu_page('CSS3 Rotating Words', 'CSS3 Rotating Words', 'manage_options', 'word_rotator', array($this,'rotating_wordpress_admin_menu'), 'dashicons-update-alt');
+        add_menu_page('SmartText Rotator', 'SmartText Rotator', 'manage_options', 'word_rotator', array($this,'rotating_wordpress_admin_menu'), 'dashicons-update-alt');
     }
 
     public function admin_enqueuing_scripts($slug)

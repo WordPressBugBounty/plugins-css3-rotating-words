@@ -1,16 +1,16 @@
-=== Dynamic Word Spinner: CSS3 Animated Rotation ===
+=== SmartText Rotator - Add Motion to Your Words ===
 
 Contributors: Labibahmed42
 Tags: rotating words, CSS3, animation, text animation, sentence animation
 Donate link: https://www.paypal.me/labibahmed/5
 Requires at least: 3.5
-Tested up to: 6.6.1
+Tested up to: 6.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 A WordPress plugin that allows you to add rotating words in a sentence with CSS3 animations.
 == Description ==
-The "CSS3 Rotating Words" plugin allows you to easily add rotating words in a sentence on your WordPress website. You can specify a list of words, and the plugin will rotate them with CSS3 animations after intervals of time.You can customize the words, animation effects, and intervals to create engaging text animations on your website.
+The "SmartText Rotator" plugin allows you to easily add rotating words in a sentence on your WordPress website. You can specify a list of words, and the plugin will rotate them with CSS3 animations after intervals of time.You can customize the words, animation effects, and intervals to create engaging text animations on your website.
 This also include typing effect which used typed js library to create beautiful typing effect.Plugin has very easy user interface for end user. You just need to add sentence and list of words that you want to animate and create shortcode and use it anywhere you want. You can also use it to widget area.
 
 <a href="http://demo.webdevocean.com/css3-rotating-words-demo/">See Live DEMO</a><br>
@@ -45,7 +45,7 @@ This also include typing effect which used typed js library to create beautiful 
 
 == Installation ==
 1. Go to plugins in your dashboard and select 'add new'
-2. Search for 'CSS3 Rotating Words' and install it
+2. Search for 'SmartText Rotator' and install it
 3. Go to Dashboard > CSS3 Rotating Words.Save options
 4. Get shortcode using Get Shortcode Button
 5. Use shorcode in Post,Page or Custom Post type

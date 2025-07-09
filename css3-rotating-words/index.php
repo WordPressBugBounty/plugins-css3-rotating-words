@@ -1,6 +1,6 @@
 <?php
 		/*
-	Plugin Name: CSS3 Rotating Words - WordPress Plugin
+	Plugin Name: SmartText Rotator
 	Description: This plugin will allow you to use multiple words in a sentence that will change randomly in a sentence.
 	Plugin URI: http://webdevocean.com/css3-rotating-words-demo/
 	Author: Labib Ahmed
@@ -13,7 +13,7 @@
 	
 	/*
 	
-	    Copyright (C) 2024  Labib Ahmed webdevocean@gmail.com
+	    Copyright (C) 2025  Labib Ahmed webdevocean@gmail.com
 	
 	    This program is free software; you can redistribute it and/or modify
 	    it under the terms of the GNU General Public License, version 2, as
